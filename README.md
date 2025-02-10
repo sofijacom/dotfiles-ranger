@@ -7,3 +7,6 @@
 ```
 git clone https://github.com/sofijacom/dotfiles-ranger.git ~/.config/ranger
 ```
+```
+chmod +x ~/.config/ranger/scope.sh
+```
